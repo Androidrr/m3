@@ -21,14 +21,14 @@
 |1|top-front.stl|
 
 # Hardware
-|Qty|Part Name|Link|
-|--|--|--|
-|9|M3 Locking Nut|
-|4|M3 Hex Nut|
-|4|M3 45mm Screw|
-|3|M3 20mm Screw|
-|4|M3 25mm Screw|
-|2|M3 30mm Screw|
+|Qty|Price|Part Name|Link|
+|--|--|--|--|
+|9|N/A|M3 Locking Nut|
+|4|N/A|M3 Hex Nut|
+|4|N/A|M3 45mm Screw|
+|3|N/A|M3 20mm Screw|
+|4|N/A|M3 25mm Screw|
+|2|N/A|M3 30mm Screw|
 
 
 # Electronics
