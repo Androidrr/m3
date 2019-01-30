@@ -6,8 +6,8 @@
 |1|battery-bottom.stl|
 |1|catch.stl|
 |1|foot-left.stl|
-|1|foot-right.stl|
-|2|foot-rear.stl|
+|1|foot-front-right.stl|
+|1|foot-front-rear.stl|
 |1|gimbal-holder.stl|
 |1|leg-back-left.stl|
 |1|leg-back-right.stl|
@@ -20,14 +20,18 @@
 |1|top-back.stl|
 |1|top-front.stl|
 
-# Additional Hardware
-|Qty|Part Name|
-|--|--|
-|6|M3 Locking Nut|
-|2|M3 25mm Screw|
-|1|M3 30mm Screw|
-
-# Electronics
+# Hardware
 |Qty|Part Name|Link|
 |--|--|--|
-|1|F3 Flight Controller||
+|9|M3 Locking Nut|
+|4|M3 Hex Nut|
+|4|M3 45mm Screw|
+|3|M3 20mm Screw|
+|4|M3 25mm Screw|
+|2|M3 30mm Screw|
+
+
+# Electronics
+|Qty|Price|Part Name|Link|
+|--|--|--|--|
+|1|$1.94|Ultrasonic Sensor|[Amazon](https://goo.gl/PX4DXM) (5 count @ $9.68)|
