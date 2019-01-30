@@ -9,8 +9,8 @@ This build is still in the works, so it is most likely incomplete and I will con
 ----------
 
 ### Links
-[Bill of Materials](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/BOM.md)
-[Assembly Instructions](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/INSTRUCTIONS.md)
+- [Bill of Materials](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/BOM.md)
+- [Assembly Instructions](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/INSTRUCTIONS.md)
 
 ----------
 
