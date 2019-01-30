@@ -23,12 +23,12 @@
 # Hardware
 |Qty|Price|Part Name|Link|
 |--|--|--|--|
-|9|N/A|M3 Locking Nut|
-|4|N/A|M3 Hex Nut|
-|4|N/A|M3 45mm Screw|
-|3|N/A|M3 20mm Screw|
-|4|N/A|M3 25mm Screw|
-|2|N/A|M3 30mm Screw|
+|9|N/A|M3 Locking Nut|N/A|
+|4|N/A|M3 Hex Nut|N/A|
+|4|N/A|M3 45mm Screw|N/A|
+|3|N/A|M3 20mm Screw|N/A|
+|4|N/A|M3 25mm Screw|N/A|
+|2|N/A|M3 30mm Screw|N/A|
 
 
 # Electronics
