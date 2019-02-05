@@ -3,7 +3,7 @@
 |Image|Qty|Part Name|Weight|
 |--|--|--|--|
 |N/A|1|base.stl|41g|
-|![base-middle](https://edwardteach42.github.io/3dp-mavic-clone/images/base-middle.jpg | width=100)|1|base-middle.stl|33g|
+|![base-middle](https://edwardteach42.github.io/3dp-mavic-clone/images/base-middle.jpg &#124; width=100)|1|base-middle.stl|33g|
 |N/A|1|battery-bottom.stl|9g|
 |N/A|1|catch.stl|0.5g|
 |N/A|1|foot-rear.stl|4g|
