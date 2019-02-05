@@ -2,23 +2,23 @@
 ### Total Weight: 197.5 grams
 |Image|Qty|Part Name|Weight|
 |--|--|--|--|
-|N/A|1|base.stl|41g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/base.jpg" width="200">|1|base.stl|41g|
 |<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/base-middle.jpg" width="200">|1|base-middle.stl|33g|
-|N/A|1|battery-bottom.stl|9g|
-|N/A|1|catch.stl|0.5g|
-|N/A|1|foot-rear.stl|4g|
-|N/A|1|foot-front-right.stl|2g|
-|N/A|1|foot-front-left.stl|2g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/battery-bottom.jpg" width="200">|1|battery-bottom.stl|9g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/catch.jpg" width="200">|1|catch.stl|0.5g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/foot-rear.jpg" width="200">|1|foot-rear.stl|4g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/feet-front.jpg" width="200">|1|foot-front-right.stl|2g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/feet-front.jpg" width="200">|1|foot-front-left.stl|2g|
 |N/A|1|gimbal-holder.stl|N/A|
-|N/A|1|leg-back-left.stl|13g|
-|N/A|1|leg-back-right.stl|13g|
-|N/A|1|leg-front-left.stl|13g|
-|N/A|1|leg-front-right.stl|13g|
-|N/A|1|nose.stl|7g|
-|N/A|1|sonar-cover.stl|10g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/leg-back-left.jpg" width="200">|1|leg-back-left.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/leg-back-right.jpg" width="200">|1|leg-back-right.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/leg-front-left.jpg" width="200">|1|leg-front-left.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/leg-front-right.jpg" width="200">|1|leg-front-right.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/nose.jpg" width="200">|1|nose.stl|7g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/sonar-cover.jpg" width="200">|1|sonar-cover.stl|10g|
 |N/A|1|sonar-holder.stl|n/a|
-|N/A|1|top-back.stl|21g|
-|N/A|1|top-front.stl|16g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/top-back.jpg" width="200">|1|top-back.stl|21g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/images/top-front.jpg" width="200">|1|top-front.stl|16g|
 
 # Hardware
 ### Total Weight: N/A
