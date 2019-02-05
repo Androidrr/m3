@@ -37,7 +37,7 @@
 
 
 # Electronics
-### Total Cost: 15g
+### Total Weight: 15g
 ### Total Cost: $142.78
 |Image|Qty|Price|Part Name|Weight|Link|
 |--|--|--|--|--|--|
