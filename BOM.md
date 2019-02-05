@@ -43,6 +43,6 @@
 |--|--|--|--|--|--|
 |N/A|1|$65.55|MultiStar 30A BLHeli_32 4-in-1 Race Spec ESC w/ F4 FC, OSD & BEC|16.5g|[Hobby King](https://goo.gl/zPgEiF)|
 |N/A|1|$17.87|Turnigy 2700mAh 3S 20C Lipo Pack|205g|[Hobby King](https://goo.gl/RADM7L)|
-|N/A|4|$44.47|Multistar 350QX Blade Motor 2209 1200KV|40g|[Hobby King](https://goo.gl/NUsQkG) (4 Pack)|
+|N/A|4|$44.47|Multistar 350QX Blade Motor 2209 1200KV|160g|[Hobby King](https://goo.gl/NUsQkG) (4 Pack)|
 |N/A|1|$12.95|3S LiPo Battery Charger|15g|[Amazon](https://goo.gl/7UzD97)|
 |N/A|1|$1.99|Ultrasonic Sensor HC-SR04|9g|[Amazon](https://goo.gl/HmXssd) (5 count @ $9.99)|
