@@ -37,7 +37,7 @@
 
 
 # Electronics
-### Total Weight: 15g
+### Total Weight: 405.5g
 ### Total Cost: $142.78
 |Image|Qty|Price|Part Name|Weight|Link|
 |--|--|--|--|--|--|
@@ -45,4 +45,4 @@
 |N/A|1|$17.87|Turnigy 2700mAh 3S 20C Lipo Pack|205g|[Hobby King](https://goo.gl/RADM7L)|
 |N/A|4|$11.12|Multistar 350QX Blade Motor 2209 1200KV|40g|[Hobby King](https://goo.gl/NUsQkG) (4 count @ $44.47)|
 |N/A|1|$12.95|3S LiPo Battery Charger|15g|[Amazon](https://goo.gl/7UzD97)|
-|N/A|1|$1.94|Ultrasonic Sensor|N/A|[Amazon](https://goo.gl/PX4DXM) (5 count @ $9.68)|
+|N/A|1|$1.94|Ultrasonic Sensor|9g|[Amazon](https://goo.gl/PX4DXM) (5 count @ $9.68)|
