@@ -1,8 +1,12 @@
 # Changelog
 
 ## [Unreleased]
-- Removed `sonar-holder.stl` as it was unused.
-- Removed config.yml
+### Added 
+- `sonar-conver-f4-with-esc.stl` for flight controller. 
+
+### Removed
+- `sonar-holder.stl` as it was unused.
+- `config.yml`
 
 
 ## [4.1.0]
