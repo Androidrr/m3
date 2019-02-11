@@ -1,7 +1,9 @@
 # Changelog
 
 ## [Unreleased]
-- No changes
+- Removed `sonar-holder.stl` as it was unused.
+- Removed config.yml
+
 
 ## [4.1.0]
 ### Changed
@@ -18,13 +20,13 @@
 
 ## [4.0.0]
 ### Changed
-- leg-back-left.stl
-- leg-back-right.stl
-- leg-front-left.stl
-- leg-front-right.stl
-- base.stl
-- middle.slt
-- top-front.stl
+- `leg-back-left.stl`
+- `leg-back-right.stl`
+- `leg-front-left.stl`
+- `leg-front-right.stl`
+- `base.stl`
+- `middle.slt`
+- `top-front.stl`
 
 
 ## [3.1.0]
@@ -33,12 +35,12 @@
 
 ## [3.0.0]
 ### Changed
-base.stl
-catch.stl
-foot-rear.stl
-leg-back-left.stl
-leg-back-right.stl
-sonar-cover.stl
+- `base.stl`
+- `catch.stl`
+- `foot-rear.stl`
+- `leg-back-left.stl`
+- `leg-back-right.stl`
+- `sonar-cover.stl`
 
 ### Added
-battery-bottom.stl
+- `battery-bottom.stl`
