@@ -39,9 +39,12 @@
 ### Total Cost: $166.82
 |Image|Qty|Price|Part Name|Weight|Link|
 |--|--|--|--|--|--|
-|N/A|1|$65.55|MultiStar 30A BLHeli_32 4-in-1 Race Spec ESC w/ F4 FC, OSD & BEC|16.5g|[Hobby King](https://goo.gl/zPgEiF)|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/flight-controller.jpg" width="200">|1|$65.55|MultiStar 30A BLHeli_32 4-in-1 Race Spec ESC w/ F4 FC, OSD & BEC|16.5g|[Hobby King](https://goo.gl/zPgEiF)|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/receiver.jpg" width="200">|1|$31.99|FrSky X4RSB 3/16CH Telemetry Receiver Full Range |N/A|[Amazon](https://goo.gl/ABVNxq)|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/folding-props.jpg" width="200">|1|$18.00|DJI 8330 Quick Release Folding Propellers for DJI Mavic Drone|N/A|[Amazon](https://goo.gl/18D5zZ)|
 |N/A|1|$17.87|Turnigy 2700mAh 3S 20C Lipo Pack|205g|[Hobby King](https://goo.gl/RADM7L)|
 |N/A|4|$44.47|Multistar 350QX Blade Motor 2209 1200KV|160g|[Hobby King](https://goo.gl/NUsQkG) (4 Pack)|
 |N/A|1|$12.95|3S LiPo Battery Charger|N/A|[Amazon](https://goo.gl/7UzD97)|
 |N/A|1|$1.99|Ultrasonic Sensor HC-SR04|9g|[Amazon](https://goo.gl/HmXssd) (5 count @ $9.99)|
 |N/A|1|$23.99|2204 260kv Motor 2805 140kv Brushless Gimbal Motor 3 Axis Brushless Gimbal M64A|N/A|[Amazon](https://goo.gl/eu1RWa)|
+
