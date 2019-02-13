@@ -2,7 +2,9 @@
 
 ## [Unreleased]
 ### Added 
-- `sonar-conver-f4-with-esc.stl` for flight controller. 
+- `leg-front-right-14-mm-motor-mount.stl`
+- `leg-front-left-14-mm-motor-mount.stl`
+- `sonar-conver-f4-with-esc.stl` for flight controller
 
 ### Removed
 - `sonar-holder.stl` as it was unused.
