@@ -5,8 +5,8 @@ This is my build of the Mavic clone from [https://diyrc.co.uk/](https://diyrc.co
 
 ## Build 01
 ### Build Status: In Progress
-- [Bill of Materials](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/BOM.md)
-- [Assembly Instructions](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/INSTRUCTIONS.md)
+- [Bill of Materials](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/build-01/BOM.md)
+- [Assembly Instructions](https://github.com/edwardteach42/3dp-mavic-clone/blob/master/build-01/INSTRUCTIONS.md)
 
 ----------
 

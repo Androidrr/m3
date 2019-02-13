@@ -9,10 +9,10 @@
 |<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/foot-rear.jpg" width="200">|1|foot-rear.stl|4g|
 |<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/feet-front.jpg" width="200">|1|foot-front-right.stl|2g|
 |<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/feet-front.jpg" width="200">|1|foot-front-left.stl|2g|
-|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-back-left.jpg" width="200">|1|leg-back-left.stl|13g|
-|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-back-right.jpg" width="200">|1|leg-back-right.stl|13g|
-|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-front-left.jpg" width="200">|1|leg-front-left.stl|13g|
-|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-front-right.jpg" width="200">|1|leg-front-right.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-back-left.jpg" width="200">|1|leg-back-left-14mm-motor-mount.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-back-right.jpg" width="200">|1|leg-back-right-14mm-motor-mount.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-front-left.jpg" width="200">|1|leg-front-left-14mm-motor-mount.stl|13g|
+|<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/leg-front-right.jpg" width="200">|1|leg-front-right-14mm-motor-mount.stl|13g|
 |<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/nose.jpg" width="200">|1|nose.stl|7g|
 |<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/sonar-cover.jpg" width="200">|1|sonar-cover-f4-with-esc.stl|10g|
 |<img src="https://edwardteach42.github.io/3dp-mavic-clone/build-01/images/top-back.jpg" width="200">|1|top-back.stl|21g|

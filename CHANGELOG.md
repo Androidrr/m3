@@ -2,8 +2,8 @@
 
 ## [Unreleased]
 ### Added 
-- `leg-front-right-14-mm-motor-mount.stl`
-- `leg-front-left-14-mm-motor-mount.stl`
+- `leg-front-right-14mm-motor-mount.stl`
+- `leg-front-left-14mm-motor-mount.stl`
 - `sonar-conver-f4-with-esc.stl` for flight controller
 
 ### Removed
