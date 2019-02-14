@@ -26,12 +26,11 @@
 |9|N/A|M3 Locking Nut|N/A|N/A|
 |4|N/A|M3 Hex Nut|N/A|N/A|
 |4|N/A|M3 45mm Screw|N/A|N/A|
-|3|N/A|M3 20mm Screw|N/A|N/A|
 |4|N/A|M3 25mm Screw|N/A|N/A|
-|2|N/A|M3 30mm Screw|N/A|N/A|
+|2|N/A|M3 15mm Screw|N/A|N/A|
 |2|N/A|10mm Length of 1.75mm Filament|N/A|N/A|
 |1|N/A|33mm Length of 1.75mm Filament|N/A|N/A|
-|4|$2.88|6x7mm Ball Plunger|N/A|[Amazon](https://goo.gl/kLpeKs) (25 count @ $17.95)|
+|6|$2.88|6x7mm Ball Plunger|N/A|[Amazon](https://goo.gl/kLpeKs) (25 count @ $17.95)|
 
 
 # Electronics

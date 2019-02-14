@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 ### Added 
+- `gimbal-arm-1.stl`
+- `gimbal-arm-2.stl`
 - `leg-back-right-14mm-motor-mount.stl`
 - `leg-back-left-14mm-motor-mount.stl`
 - `leg-front-right-14mm-motor-mount.stl`
